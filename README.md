@@ -1,5 +1,7 @@
 <h1 align="center">
-  <span style="background: linear-gradient(90deg, #58A6FF, #8A2BE2, #FF007F, #FF8C00);
+  <span style="background: linear-gradient(135deg, hsl(200 100% 60%), hsl(280 100% 65%
+65%
+), hsl(200 100% 70%));;
                -webkit-background-clip: text;
                -webkit-text-fill-color: transparent;">
     👋 Hi, I'm Shuban Ali
