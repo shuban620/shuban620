@@ -1,7 +1,5 @@
 <h1 align="center">
-  <span style="background: linear-gradient(135deg, hsl(200 100% 60%), hsl(280 100% 65%
-65%
-), hsl(200 100% 70%));;
+  <span style="background: linear-gradient(135deg, hsl(200 100% 60%), hsl(280 100% 65% 65%), hsl(200 100% 70%));
                -webkit-background-clip: text;
                -webkit-text-fill-color: transparent;">
     👋 Hi, I'm Shuban Ali
@@ -9,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=550&duration=2500&color=58A6FF&lines=Full+Stack+Developer;MERN+Stack+Specialist;Frontend+Enthusiast;Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=550&duration=2500&color=58A6FF,8A2BE2,FF007F,FF8C00&lines=Full+Stack+Developer;Software+Engineer;App+Developer;MERN+Stack+Specialist;Frontend+Enthusiast;Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" />
 </p>
 
 I'm a passionate software engineer specializing in **Full Stack Web & Mobile Development** with a strong focus on building clean, responsive, and scalable applications.
