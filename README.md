@@ -40,8 +40,6 @@ I'm a passionate software engineer specializing in **Full Stack Web & Mobile Dev
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
 
 <table>
