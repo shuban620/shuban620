@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Shuban Ali
 
-🚀 <p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;MERN+Stack+Specialist;Frontend+Enthusiast;Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" />
 </p>
-
 
 I'm a passionate software engineer specializing in **Full Stack Web & Mobile Development** with a strong focus on building clean, responsive, and scalable applications.
 
