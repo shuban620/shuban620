@@ -7,7 +7,7 @@ I'm a passionate software engineer specializing in **Full Stack Web & Mobile Dev
 ---
 
 ## 🧠 About Me
-- 💻 Skilled in: **HTML, CSS, JavaScript, Bootstrap 5, Tailwind CSS, React, Node.js, Express, MongoDB**
+- 💻 Skilled in: **HTML, CSS, JavaScript, Bootstrap 5, Tailwind CSS, React, Typescript, Php, Python, Node.js, Express, MongoDB**
 - 🌍 Interested in: **Web Apps, SaaS Products, and Mobile App Development**
 - ⚙️ Currently working on: **Medical Management App** using React + Capacitor + Supabase
 - 🎯 2025 Goal: Contribute more to **open-source projects** and build **developer tools**
