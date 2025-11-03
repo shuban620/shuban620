@@ -11,17 +11,17 @@ I'm a passionate software engineer specializing in **Full Stack Web & Mobile Dev
 - 🌍 Interested in: **Web Apps, SaaS Products, and Mobile App Development**
 - ⚙️ Currently working on: **Medical Management App** using React + Capacitor + Supabase
 - 🎯 2025 Goal: Contribute more to **open-source projects** and build **developer tools**
-- 📫 Reach me at: **developer.symbeamia@gmail.com**
+- 📫 Reach me at: **ashuban620+1@gmail.com**
 
 ---
 
 ## 🧰 Tech Stack
 
 **Frontend:**
-`HTML` `CSS` `JavaScript` `React` `Tailwind CSS` `Bootstrap`
+`HTML` `CSS` `JavaScript` `Typescript` `React` `Tailwind CSS` `Bootstrap`
 
 **Backend:**
-`Node.js` `Express` `MongoDB`
+`Node.js` `Php` `Python` `Express` `MongoDB` `PostgresSql`
 
 **Other Tools:**
 `Vite` `Capacitor` `Supabase` `Git` `VS Code`
