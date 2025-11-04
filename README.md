@@ -20,6 +20,7 @@ I'm a passionate software engineer specializing in **Full Stack Web & Mobile Dev
 - ⚙️ Currently working on: **Medical Management App** using React + Capacitor + Supabase
 - 🎯 2025 Goal: Contribute more to **open-source projects** and build **developer tools**
 - 📫 Reach me at: **ashuban620+1@gmail.com**
+- 🤙🏻 Contact me at: **+923277404165**
 
 ---
 
