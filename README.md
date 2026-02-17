@@ -47,24 +47,18 @@ I'm a passionate software engineer specializing in **Full Stack Web & Mobile Dev
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=shuban620&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Shuban's GitHub Stats" width="420"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuban620&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="320"/>
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=shuban620&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" width="420"/>
 
-<img src="https://streak-stats.demolab.com?user=shuban620&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="750"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuban620&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" width="320"/>
+
+<img src="https://streak-stats.demolab.com?user=shuban620&theme=github-dark&hide_border=true&background=0D1117" width="750"/>
 
 </div>
+
 
 
 ---
