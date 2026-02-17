@@ -48,6 +48,13 @@ I'm a passionate software engineer specializing in **Full Stack Web & Mobile Dev
 ---
 
 ## 📊 GitHub Activity
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=shuban620&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
+
+<img src="https://streak-stats.demolab.com?user=shuban620&theme=radical&hide_border=true&background=0D1117&cache_seconds=1800" />
+
+</div>
 
 <div align="center">
 
