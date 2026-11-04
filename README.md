@@ -1,89 +1,166 @@
-<h1 align="center">👋 Hi, I'm Shuban Ali</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=550&duration=2500&color=58A6FF,8A2BE2,FF007F,FF8C00&lines=Full+Stack+Developer;Software+Engineer;App+Developer;MERN+Stack+Specialist;Frontend+Enthusiast;Lifelong+Learner+%26+Problem+Solver;Ultra+Mode+Unlocked" alt="Typing SVG" />
+  <img src="./assets/hero.svg" width="100%" alt="Muhammad Shuban Ali — Full-Stack Developer. Available for freelance and full-time work. React, Next.js, Node.js, TypeScript, PostgreSQL." />
 </p>
 
 <p align="center">
-  <a href="https://shanxcode.netlify.app/">
-    <img src="https://shanxcode.netlify.app/og-image.jpg" alt="Shanxcode — Muhammad Shuban Ali, Full-Stack Developer" width="720" />
-  </a>
+  <a href="mailto:shanxcode@gmail.com?subject=Project%20inquiry"><img src="https://img.shields.io/badge/Hire_me-shanxcode%40gmail.com-7FD8FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0F17" alt="Email me" /></a>
+  <a href="https://wa.me/923277404165"><img src="https://img.shields.io/badge/WhatsApp-Chat_now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0B0F17" alt="WhatsApp" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-shuban-ali-10075031b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0F17" alt="LinkedIn" /></a>
+  <a href="https://shanxcode.netlify.app/my%20latest%20CV%202026.pdf"><img src="https://img.shields.io/badge/CV-Download_PDF-A48BFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0B0F17" alt="Download my CV" /></a>
+</p>
+
+<br />
+
+<img src="./assets/section-01-about.svg" width="100%" alt="01 — About me" />
+
+I'm **Muhammad Shuban Ali**, a full-stack developer from Gujrat, Pakistan with **3+ years** of building web applications that solve real problems. I take products from idea to launch — designing the interface, building the API and database behind it, and shipping it fast, accessible and easy to maintain. I care about clean code, smooth interactions and interfaces people enjoy using.
+
+```js
+const shuban = {
+  role: "Full-Stack Developer",
+  location: "Gujrat, Pakistan 🇵🇰",
+  experience: "3+ years",
+  code: {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Vite"],
+    backend: ["Node.js", "Express", "PostgreSQL", "MongoDB", "Prisma"],
+    tools: ["Git", "Docker", "AWS", "Supabase", "Figma"],
+  },
+  currentlyBuilding: "Medical management app — React + Capacitor + Supabase",
+  openTo: ["Full-time roles", "Freelance projects", "Consulting", "Open-source collaboration"],
+  hire: () => "shanxcode@gmail.com",
+};
+```
+
+<br />
+
+<img src="./assets/section-02-services.svg" width="100%" alt="02 — What I do" />
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖥️ Full-Stack Web Apps</h3>
+      End-to-end products: React / Next.js front ends, Node.js APIs, PostgreSQL or MongoDB, authentication and deployment — one developer, the whole stack.
+      <br /><br />
+      <code>React</code> <code>Next.js</code> <code>Node.js</code> <code>PostgreSQL</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 SaaS Dashboards & Admin Panels</h3>
+      Data-heavy dashboards for clinics, stores and teams — tables, analytics, roles, orders and billing flows that stay fast as data grows.
+      <br /><br />
+      <code>React</code> <code>Tailwind CSS</code> <code>Prisma</code> <code>Charts</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 Frontend & UI Engineering</h3>
+      Pixel-perfect, responsive interfaces built from Figma designs as reusable component systems — accessible, consistent and quick on every device.
+      <br /><br />
+      <code>TypeScript</code> <code>React</code> <code>Tailwind CSS</code> <code>Figma</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Backend & REST APIs</h3>
+      Clean, well-structured APIs, database design, email and third-party integrations — the reliable engine behind the interface.
+      <br /><br />
+      <code>Node.js</code> <code>Express</code> <code>Prisma</code> <code>SQL</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✨ Interactive & Creative Web</h3>
+      Motion design, canvas tools and playful experiences — from real-time design editors to animated interfaces and browser mini-games.
+      <br /><br />
+      <code>Framer Motion</code> <code>GSAP</code> <code>Canvas</code> <code>SVG</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 Mobile Apps</h3>
+      Cross-platform mobile apps from a single React codebase, with a real-time backend and authentication built in.
+      <br /><br />
+      <code>React</code> <code>Capacitor</code> <code>Supabase</code>
+    </td>
+  </tr>
+</table>
+
+> 🛠️ Also: feature development and bug fixing on existing codebases, performance tuning and SEO, and deployments on Vercel, Netlify and AWS.
+
+<br />
+
+<img src="./assets/section-03-skills.svg" width="100%" alt="03 — Coding skills" />
+
+<p align="center">
+  <img src="./assets/skills.svg" width="100%" alt="Expertise: Frontend 95, Backend 88, Database Design 85, UI/UX 78. 30+ projects completed, 8 happy clients, 50K+ lines of code, 3+ years." />
 </p>
 
 <p align="center">
-  <a href="https://shanxcode.netlify.app/"><b>🌐 shanxcode.netlify.app</b></a> — my portfolio, with a hidden <b>⚡ Ultra Mode</b>
+  <img src="./assets/tech-orbit.svg" width="100%" alt="Tech stack orbit — Frontend: React, Next.js, TypeScript, Tailwind CSS, Vite. Backend and data: Node.js, Express, PostgreSQL, MongoDB, Prisma, SQL. Tools and languages: Python, PHP, Docker, AWS, Supabase, Figma, Git, Capacitor." />
 </p>
-
-I'm a passionate software engineer specializing in **Full Stack Web & Mobile Development** with a strong focus on building clean, responsive, and scalable applications.
-
----
-
-## ⚡ My Portfolio & Ultra Mode
-
-My portfolio at **[shanxcode.netlify.app](https://shanxcode.netlify.app/)** has two faces. Click **Ultra Mode** in the header and the whole site transforms — after a short "power-up" sequence — into a completely different interface: part terminal, part gamer HUD, part hacker console, with Goku's silver *Ultra Instinct* aura from Dragon Ball as the main inspiration. Same content, a whole new way to explore it.
 
 <p align="center">
-  <img src="./assets/ultra-home.jpg" alt="Ultra mode home screen: a character-select style hero with a glitching name, a game menu and a live silver aura around the profile photo" width="100%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite&perline=9" alt="Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Bootstrap, Vite" /><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,py,mongodb,postgres,prisma,docker,aws&perline=9" alt="Backend and DevOps: Node.js, Express, PHP, Python, MongoDB, PostgreSQL, Prisma, Docker, AWS" /><br />
+  <img src="https://skillicons.dev/icons?i=supabase,figma,git,github,vscode,netlify,vercel&perline=9" alt="Tools: Supabase, Figma, Git, GitHub, VS Code, Netlify, Vercel" />
 </p>
 
-| | What you'll find in Ultra mode |
-|---|---|
-| 🖥️ **OS-style shell** | Status bar with live FPS and clock, a side rail on desktop and a bottom dock on phones |
-| ⌨️ **Keyboard-first** | `Ctrl` / `⌘` + `K` command palette, and keys `1`–`5` jump between pages with an "instant transmission" warp |
-| 🎯 **Custom cursor** | A targeting reticle that locks onto buttons and links, with silver afterimages and a ki burst on every click |
-| 🧬 **Character-select home** | Glitch-style name, a game menu you can drive with the arrow keys, and a live canvas aura around my photo |
-| 📊 **RPG-style About** | Expertise bars that charge up, unlocked achievements, a skill inventory and my journey as a quest log |
-| 🗺️ **Mission-board Projects** | Filter by role, read each project's briefing and launch the live site |
-| 🕹️ **Arcade cabinet** | Three original mini games — **Instinct Dodge**, **Bug Blaster** and **Perfect Strike** — playable with keyboard, joystick or touch, with saved high scores |
-| 💬 **Terminal Contact** | Type `help`, `projects` or `contact` — the terminal walks you through a message and actually emails it to me |
+<br />
 
-<p align="center">
-  <img src="./assets/ultra-projects.jpg" alt="Ultra mode projects page: a mission board listing projects with a briefing panel" width="49%" />
-  <img src="./assets/ultra-arcade.jpg" alt="Ultra mode play area: an arcade cabinet running the Bug Blaster mini game" width="49%" />
-</p>
+<img src="./assets/section-04-work.svg" width="100%" alt="04 — Featured work" />
 
-**Under the hood:** Ultra mode is lazy-loaded, so visitors who never open it download nothing extra. It's fully responsive from 320 px phones to large desktops, respects reduced-motion settings, and pauses its canvas animations when they're off screen.
+Real products I've built and contributed to:
 
-`React` `Vite` `Tailwind CSS` `Framer Motion` `GSAP` `Canvas 2D` `Web Audio` `Express` `Nodemailer` `Netlify Functions`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>01 · FULL PROJECT</sub>
+      <h3><a href="https://www.naqlix.com/">Naqlix ↗</a></h3>
+      AI-powered clinic management platform — appointment scheduling, patient records, billing and workflow automation for healthcare teams.
+      <br /><br />
+      <code>Healthcare</code> <code>AI</code> <code>SaaS</code>
+    </td>
+    <td width="50%" valign="top">
+      <sub>02 · FULL PROJECT</sub>
+      <h3><a href="https://aqd-commerce-suite.vercel.app/">AQD Commerce Suite ↗</a></h3>
+      All-in-one e-commerce management system — products, orders, customers and analytics in one dashboard.
+      <br /><br />
+      <code>E-Commerce</code> <code>React</code> <code>Dashboard</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>03 · FULL PROJECT</sub>
+      <h3><a href="https://alfarhan-light-editer-main.vercel.app/">Alfarhan Light Editor ↗</a></h3>
+      Interactive editor for designing custom neon light signs — dynamic text styling, colour controls and a real-time preview.
+      <br /><br />
+      <code>Canvas</code> <code>Interactive</code> <code>Design Tool</code>
+    </td>
+    <td width="50%" valign="top">
+      <sub>04 · CONTRIBUTOR</sub>
+      <h3><a href="https://voiceplatter.ai/">VoicePlatter AI ↗</a></h3>
+      AI voice platform — shipped new features and fixed critical bugs, improving performance, user experience and stability.
+      <br /><br />
+      <code>AI</code> <code>Voice Tech</code> <code>Feature Dev</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>05 · FRONTEND DEVELOPER</sub>
+      <h3><a href="https://cdcs.com.pk/">CDCS Pakistan ↗</a></h3>
+      Corporate website — responsive UI components and a consistent design system across devices.
+      <br /><br />
+      <code>Corporate</code> <code>Frontend</code> <code>Responsive</code>
+    </td>
+    <td width="50%" valign="top">
+      <sub>06 · YOUR PROJECT</sub>
+      <h3><a href="mailto:shanxcode@gmail.com?subject=Project%20inquiry">Let's build yours ↗</a></h3>
+      Have an idea, a product to scale or a codebase that needs a hand? Tell me about it — I reply within 24 hours.
+      <br /><br />
+      <code>Freelance</code> <code>Full-time</code> <code>Consulting</code>
+    </td>
+  </tr>
+</table>
 
----
+<details>
+  <summary><b>🧪 Earlier projects on GitHub</b></summary>
+  <br />
 
-## 🧠 About Me
-- 💻 Skilled in: **HTML, CSS, JavaScript, Bootstrap 5, Tailwind CSS, React, Next.js, TypeScript, PHP, Python, Node.js, Express, MongoDB, PostgreSQL**
-- 🌍 Interested in: **Web Apps, SaaS Products, and Mobile App Development**
-- ⚙️ Currently working on: **Medical Management App** using React + Capacitor + Supabase
-- 🎯 2025 Goal: Contribute more to **open-source projects** and build **developer tools**
-- 📫 Reach me at: **shanxcode@gmail.com**
-- 🤙🏻 Contact me at: **+923277404165**
-
----
-
-## 🧰 Tech Stack
-
-**Frontend:**
-`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS` `Bootstrap`
-
-**Backend:**
-`Node.js` `Express` `PHP` `Python` `MongoDB` `PostgreSQL` `Prisma` `SQL`
-
-**Other Tools:**
-`Vite` `Capacitor` `Supabase` `Docker` `AWS` `Figma` `Git` `VS Code`
-
----
-
-## 🌟 Featured Projects
-Real-world products I've built and contributed to:
-
-| Project | Description | Role | Focus |
-|----------|--------------|------|-------|
-| [Naqlix](https://www.naqlix.com/) | AI-powered clinic management platform — scheduling, patient records, billing and workflow automation. | Full Project | Healthcare · AI · SaaS |
-| [AQD Commerce Suite](https://aqd-commerce-suite.vercel.app/) | All-in-one e-commerce management system with product, order and customer tools plus analytics. | Full Project | E-Commerce · React · Dashboard |
-| [Alfarhan Light Editor](https://alfarhan-light-editer-main.vercel.app/) | Interactive editor for designing custom neon light signs with a real-time preview. | Full Project | Canvas · Interactive · Design Tool |
-| [Shanxcode Portfolio](https://shanxcode.netlify.app/) | My portfolio — including Ultra Mode, the arcade and the terminal contact form. | Full Project | React · Tailwind CSS · Portfolio |
-| [VoicePlatter AI](https://voiceplatter.ai/) | AI voice platform — built new features and fixed critical bugs to improve performance and stability. | Contributor | AI · Voice Tech · Feature Dev |
-| [CDCS Pakistan](https://cdcs.com.pk/) | Corporate website — responsive UI components and a consistent design across devices. | Frontend Developer | Corporate · Frontend · Responsive |
-
-### 🧪 Earlier Projects on GitHub
 | Project | Description | Tech |
 |----------|--------------|------|
 | [Amazon Seller Central](https://github.com/shuban620/Amazon-seller-central) | A mock e-commerce seller dashboard. | JavaScript |
@@ -91,29 +168,46 @@ Real-world products I've built and contributed to:
 | [Result Generator](https://github.com/shuban620/my-result-generater) | Simple web app to generate result cards. | HTML, JS |
 | [Calculator](https://github.com/shuban620/calculator) | A basic responsive calculator. | HTML, CSS, JS |
 
----
+</details>
 
-## 📊 GitHub Activity
-<div align="center">
+<br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=shuban620&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" width="420"/>
+<img src="./assets/section-05-activity.svg" width="100%" alt="05 — GitHub activity" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuban620&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" width="320"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shuban620/shuban620/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shuban620/shuban620/output/snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/shuban620/shuban620/output/snake-dark.svg" width="100%" alt="A snake animation eating through my GitHub contribution calendar" />
+</picture>
 
-<img src="https://streak-stats.demolab.com?user=shuban620&theme=github-dark&hide_border=true&background=0D1117" width="750"/>
-
-</div>
-
----
-
-## 🤝 Connect with Me
-<p align="left">
-  <a href="https://shanxcode.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-shanxcode.netlify.app-0EA5E9?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-  <a href="mailto:shanxcode@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-shuban-ali-10075031b/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/shuban620"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuban620&theme=tokyonight" width="100%" alt="GitHub profile: contributions over the last year" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shuban620&theme=tokyonight" width="49%" alt="GitHub stats: stars, commits, pull requests and issues" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shuban620&theme=tokyonight&utcOffset=5" width="49%" alt="Commits by hour of the day (Pakistan time)" />
+</p>
 
-⭐️ *“Code is like humor — when you have to explain it, it’s bad.”*
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shuban620&background=05070C&ring=7FD8FF&fire=A48BFF&currStreakNum=E6ECFA&sideNums=E6ECFA&currStreakLabel=7FD8FF&sideLabels=7FD8FF&dates=6B7699&stroke=1B2540&hide_border=true" width="100%" alt="GitHub contribution streak" />
+</p>
+
+<br />
+
+<img src="./assets/section-06-contact.svg" width="100%" alt="06 — Let's work together" />
+
+**Have a project in mind, or a role that fits?** I'm available for full-time opportunities, freelance projects, consulting and open-source collaboration — and I reply within 24 hours.
+
+<p align="center">
+  <a href="mailto:shanxcode@gmail.com?subject=Project%20inquiry"><img src="https://img.shields.io/badge/Email-shanxcode%40gmail.com-7FD8FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0F17" alt="Email" /></a>
+  <a href="https://wa.me/923277404165"><img src="https://img.shields.io/badge/WhatsApp-%2B92_327_7404165-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0B0F17" alt="WhatsApp" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-shuban-ali-10075031b/"><img src="https://img.shields.io/badge/LinkedIn-Muhammad_Shuban_Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0F17" alt="LinkedIn" /></a>
+  <a href="https://shanxcode.netlify.app/"><img src="https://img.shields.io/badge/Website-shanxcode.netlify.app-E6ECFA?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0B0F17" alt="Website" /></a>
+</p>
+
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Let's build something great — thanks for visiting" />
+</p>
+
+<p align="center"><i>“Code is like humor — when you have to explain it, it’s bad.”</i></p>
